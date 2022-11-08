@@ -79,6 +79,7 @@ p{
     font-family: $otherFont;
     margin-top: 2em;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 
     &:hover {
         color: #ffff;
